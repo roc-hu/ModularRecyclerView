@@ -15,8 +15,8 @@ import java.util.Map;
  *
  * A sticky header decoration for android's RecyclerView.
  *
- * @Link https://github.com/edubarr/header-decor
- * @Link https://github.com/timehop/sticky-headers-recyclerview
+ * https://github.com/edubarr/header-decor
+ * https://github.com/timehop/sticky-headers-recyclerview
  *
  * Created by hcp on 16/6/2.
  */

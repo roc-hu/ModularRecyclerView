@@ -15,4 +15,9 @@ public abstract class HItemAdapter<DATAS> implements IHItemAdapter<DATAS> {
     public int getItemViewType() {
         return viewType;
     }
+
+    @Override
+    public boolean isForViewType(DATAS items, int position) {
+        return false;
+    }
 }

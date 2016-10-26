@@ -7,7 +7,7 @@ import com.lesehome.modularrecyclerview.helper.ViewHelper;
 
 /**
  * RecyclerView.HViewHolder
- * <p/>
+ *
  * Created by hcp on 16/1/7.
  */
 public class HViewHolder extends RecyclerView.ViewHolder implements

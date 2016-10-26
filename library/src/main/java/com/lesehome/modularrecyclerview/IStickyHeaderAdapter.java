@@ -3,9 +3,11 @@ package com.lesehome.modularrecyclerview;
 import android.support.v7.widget.RecyclerView;
 import android.view.ViewGroup;
 
+import static android.support.v7.recyclerview.R.styleable.RecyclerView;
+
 
 /**
- *The adapter to assist the {@link com.lesehome.example.modularrecycler.decoration.StickyHeaderDecoration} in creating and binding the header views.
+ *The adapter to assist the {@link com.lesehome.modularrecyclerview.decoration.StickyHeaderDecoration} in creating and binding the header views.
  * @param <T>
  *
  *     Created by hcp on 16/6/2.

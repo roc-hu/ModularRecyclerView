@@ -78,10 +78,6 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
-    <option name="sshUserName" value="huchangpeng" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="Copyright.UI">
